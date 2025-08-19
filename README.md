@@ -41,9 +41,9 @@
 ## 🌟 Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [Restaurant Managment System ](https://github.com/Dawit-P/Mafi--Restaurant) | Restaurant Managment System for Mafi Hotel | Python, Django , React , HTML , CSS |
 | [Visitor Management System](https://github.com/Dawit-P/visitor-management-system) | Visitor Management System for INSA with admin control | JS, HTML, CSS , MERN |
 | [Questionnarie Collection For Company's](https://github.com/Dawit-P/questionnarie-main-changed-) |Questionnarie Collection For 33 Company's | JS, HTML, CSS , MERN|
-| [Car Rental, Sales & Services AI](https://github.com/Dawit-P/Car_Rental_Sales_and_Services) | AI-powered recommendation system for car rentals & sales | Python, Flutter, Firebase, ML |
 | [TryHackMe Write-ups](https://medium.com/@dawitpetros) | Documenting CTF challenges and security learning | Python, Cybersecurity |
 
 
